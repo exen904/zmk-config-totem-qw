@@ -98,8 +98,8 @@
        };
     };
 
-    macros {
-/*         gif: gif {
+/*    macros {
+         gif: gif {
             label = "giphy";
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
@@ -109,9 +109,9 @@
                 , <&macro_release &kp LSHFT>
                 , <&macro_tap &kp G &kp I &kp F>
                 ;
-        }; */
+        }; 
     };
-
+*/
     behaviors {
         hl: homerow_mods_left {
             compatible = "zmk,behavior-hold-tap";
