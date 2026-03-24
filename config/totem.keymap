@@ -208,7 +208,7 @@
             &kp Q          &kp DE_W       &kp DE_E        &kp DE_R        &kp DE_T     &kp DE_Z   &kp DE_U        &kp DE_I        &kp DE_O       &kp DE_P
             &hl LGUI DE_A  &hl LALT DE_S  &hl LCTRL DE_D  &hl LSHFT DE_F  &kp DE_G     &kp DE_H   &hr RSHFT DE_J  &hr RCTRL DE_K  &hr RALT DE_L  &hr RGUI DE_SEMI
 &kp ESCAPE  &kp DE_Y       &kp DE_X       &kp DE_C        &kp DE_V        &kp DE_B     &kp DE_N   &kp DE_M        &kp DE_COMMA    &kp DE_DOT     &kp DE_FSLH       &kp DE_BSLH
-                                          &kp DEL         &lt 1 TAB       &kp SPACE    &kp ENTER  &lt 2 DE_BSLH   &kp BSPC
+                                          &kp DEL         &lt 1 TAB       &kp SPACE    &kp ENTER  &lt 2 ESC       &kp BSPC
             >;
         };
 
@@ -265,7 +265,7 @@
                  &kp Q               &kp W           &kp E               &kp R             &kp T        &kp DE_Z   &kp U              &kp I                   &kp O            &kp P
                  &hl LEFT_CONTROL A  &hl LEFT_ALT S  &hl LEFT_COMMAND D  &hl LEFT_SHIFT F  &kp G        &kp H      &hr RIGHT_SHIFT J  &hr RIGHT_COMMAND DE_K  &hr RIGHT_ALT L  &hr RIGHT_CONTROL DE_SEMI
 &kp PRINTSCREEN  &kp DE_Y            &kp X           &kp C               &kp V             &kp B        &kp N      &kp M              &kp DE_COMMA            &kp DE_DOT       &kp DE_FSLH                &kp RA(LS(NUMBER_7))
-                                                     &kp DELETE          &lt 4 TAB         &kp SPACE    &kp ENTER  &lt 5 A            &kp BSPC
+                                                     &kp DELETE          &lt 4 TAB         &kp SPACE    &kp ENTER  &lt 5 ESC          &kp BSPC
             >;
         };
 
